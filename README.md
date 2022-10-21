@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Selin Zeydan</h1>
-- 🌱 I’m currently learning Java, Pyhton
 
+- 🌱 I’m currently learning Java, Pyhton
 - 📫 How to reach me **selinzeydan@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
